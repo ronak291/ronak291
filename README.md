@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Jangid</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 
-- 🌱 I’m currently learning **Full stack Web development**
+- 🌱 I’m currently learning **frontend developement**
 
 - 📫 How to reach me **contactronak850@gmail.com**
 
