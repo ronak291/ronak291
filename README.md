@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronak Jangid</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-- 🌱 I’m currently learning **frontend developement**
+- 🌱 I’m currently learning **Web developement**
 
-- 📫 How to reach me **contactronak850@gmail.com**
+- 📫 How to reach me **ronakjangid2211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
